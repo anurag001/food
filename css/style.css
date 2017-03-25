@@ -1,0 +1,68 @@
+#starter{
+	background-image: url("../images/starter.jpg");
+	background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+    background-clip: padding-box;
+	height:600px;
+}
+#secfirst{
+	font-family:robol;
+	height:auto;
+	width:auto;
+	background-color:	#808080 ;
+	opacity:0.5;
+	padding-top:40px;
+	color:	#F8F8F8;
+}
+#fastfood{
+	background-image: url("../images/burger.jpg");
+	background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+    background-clip: padding-box;
+	height:600px;
+}
+#secsec{
+	font-family:ralewayreg;
+	height:auto;
+	width:auto;
+	background-color:#580000 ;
+	opacity:0.6;
+	padding-top:0px;
+	color:#fff;
+}
+#dessert{
+	background-image: url("../images/dessert2-940x400.jpg");
+	background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+    background-clip: padding-box;
+	height:600px;
+}
+#dessh{
+	font-family:robol;
+	height:auto;
+	width:auto;
+	background-color:rgb(96,41,0);
+	opacity:0.6;
+	padding-top:40px;
+	color:#fff;
+}
+#dessb{
+	font-family:robol;
+	height:auto;
+	width:auto;
+	background-color:rgb(96,41,0);
+	opacity:0.6;
+	padding-top:40px;
+	color:#fff;
+}
+#pie{
+	height:400px;
+	border-radius:2px;
+	background-color:rgb(96,41,0);
+}
